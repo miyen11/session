@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "637595860889",
+    "project_id": "extended-byway-169216"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637595860889:android:4af323699a96853e",
+        "android_client_info": {
+          "package_name": "com.example.michen.session"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637595860889-lcoi6ht8vo4g0bdttt7km9iv8pj2j503.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.michen.session",
+            "certificate_hash": "7b5c92137d1e46324efccf04906097e6716667c3"
+          }
+        },
+        {
+          "client_id": "637595860889-vgs2lnv6khkr4h7s05td9iab9f9e0jt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCAiwMRU4V-gI_cLuc397NJTc0f17ANLE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
